@@ -1,0 +1,12 @@
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\bin\Debug\rs232.exe.config
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\bin\Debug\rs232.exe
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\bin\Debug\rs232.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\bin\Debug\rs232.xml
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\obj\Debug\rs232.vbprojAssemblyReference.cache
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\obj\Debug\rs232.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\obj\Debug\rs232.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\obj\Debug\rs232.vbproj.GenerateResource.cache
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\obj\Debug\rs232.vbproj.CoreCompileInputs.cache
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\obj\Debug\rs232.exe
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\obj\Debug\rs232.xml
+C:\Users\USER\AppData\Local\Temporary Projects\rs232\obj\Debug\rs232.pdb
